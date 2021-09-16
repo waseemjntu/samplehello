@@ -1,0 +1,6 @@
+
+      <app-hello-world></app-hello-world>
+      <div> Image from frontend project only div</div>
+      <img src="logo.gif">
+      <script type="text/javascript" src="/samplehello"></script>
+    
